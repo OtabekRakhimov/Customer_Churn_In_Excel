@@ -27,6 +27,7 @@ Filters and sorting
 What I did:
 
 Cleaned and reviewed the dataset
+
 Calculated:
 
 Total number of customers
