@@ -19,9 +19,9 @@ This dataset was used only for learning and practice purposes.
 
 Tools used:
 
-Microsoft Excel
-Pivot Tables
-Basic formulas and calculations
+Microsoft Excel,
+Pivot Tables,
+Basic formulas and calculations,
 Filters and sorting
 
 What I did:
